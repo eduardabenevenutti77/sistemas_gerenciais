@@ -1,0 +1,40 @@
+# Tecnologias e Sistemas de informação Gerencial
+
+O dinheiro está na integração 
+
+SIG - Sistema de informações Gerenciais 
+
+A análise multicritério é uma técnica de tomada de decisão que permite considerar vários critérios diferentes ao tomar uma decisão. 
+É utilizada quando a decisão envolve vários objetivos conflitantes e permite uma comparação justa e consistente entre várias opções.
+sistemas de informação é um conjunto de componentes inter-relacionados, desenvolvidos para: 
+coletar, processar, armazenar e distribuir informação para facilitar a coordenação, o controle, a análise, a visualização e o processo decisório. 
+Recebimento de relatórios programados periódicamente (exeção - ocorre por condições determinadas, reduz a carga de informações/demanda - emitem informações especificas a pedido do gestor) - diário, semanal ou mensal
+
+coordenação é trabalhar de forma coordenada, integrada 
+
+Níveis organizacionais (operacional/supervisão - garente a qualidade/gerencial - visão estratégica e garante a qualidade abrangente do sistema/direção - análise de mercado) -  
+
+operacional ou sistemas de processamento de transação (SPT) (1)
+ → recebe/processa vários volumes de dados, cálculos simplificados, alto nível de precisão, alto nível de detalhamento de dados
+
+→ Dão suporte no processamento e acompanhamento das atividades cotidianas e transações rotineiras de uma empresa 
+
+Níveis Organizacionais - Gerenciais
+
+→ Recebe dados do sistema/processos/setores por meio de relatórios
+→ No nível gerencial das empresas estão as atividades relacionadas com a monitoração e o controle das atividades rotineiras
+→ O sistema no nível gerencial são projetados para servir de suporte a essas atividades
+
+Níveis Organizacionais - Estratégicos
+→ Acesso rápido as informações atualizadas, utilização de recursos gráficos
+→ Facilidade de uso, manipula grande variável de dados, boa análise dados, flexivel, recursos de comunicação com outros gestores
+
+Se dividem em:
+- Sistemas de informações gerenciais (SIG)
+- Sistema de apoio à decisão (SAD)
+
+SAD - Sistema de apoio à decisao:
+ → análise tipo what if (se condição, quantos de outra condição vai ser necessário)
+ → sensibilidade (mudança repetidas em uma única variável afeta outras)
+ → busca de metas (repetidas mudanças em variáveis selecionadas até uma variável escolhida alcance um valor determinado)
+ → otimização (encontrar um bom valor para as variáveis selecionadas dados em certas condições)
