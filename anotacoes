@@ -10,24 +10,22 @@ sistemas de informação é um conjunto de componentes inter-relacionados, desen
 coletar, processar, armazenar e distribuir informação para facilitar a coordenação, o controle, a análise, a visualização e o processo decisório. 
 Recebimento de relatórios programados periódicamente (exeção - ocorre por condições determinadas, reduz a carga de informações/demanda - emitem informações especificas a pedido do gestor) - diário, semanal ou mensal
 
-coordenação é trabalhar de forma coordenada, integrada 
+Coordenação é trabalhar de forma coordenada, integrada 
 
 Níveis organizacionais (operacional/supervisão - garente a qualidade/gerencial - visão estratégica e garante a qualidade abrangente do sistema/direção - análise de mercado) -  
 
 operacional ou sistemas de processamento de transação (SPT) (1)
  → recebe/processa vários volumes de dados, cálculos simplificados, alto nível de precisão, alto nível de detalhamento de dados
-
-→ Dão suporte no processamento e acompanhamento das atividades cotidianas e transações rotineiras de uma empresa 
+ → Dão suporte no processamento e acompanhamento das atividades cotidianas e transações rotineiras de uma empresa 
 
 Níveis Organizacionais - Gerenciais
-
-→ Recebe dados do sistema/processos/setores por meio de relatórios
-→ No nível gerencial das empresas estão as atividades relacionadas com a monitoração e o controle das atividades rotineiras
-→ O sistema no nível gerencial são projetados para servir de suporte a essas atividades
+ → Recebe dados do sistema/processos/setores por meio de relatórios
+ → No nível gerencial das empresas estão as atividades relacionadas com a monitoração e o controle das atividades rotineiras
+ → O sistema no nível gerencial são projetados para servir de suporte a essas atividades
 
 Níveis Organizacionais - Estratégicos
-→ Acesso rápido as informações atualizadas, utilização de recursos gráficos
-→ Facilidade de uso, manipula grande variável de dados, boa análise dados, flexivel, recursos de comunicação com outros gestores
+ → Acesso rápido as informações atualizadas, utilização de recursos gráficos
+ → Facilidade de uso, manipula grande variável de dados, boa análise dados, flexivel, recursos de comunicação com outros gestores
 
 Se dividem em:
 - Sistemas de informações gerenciais (SIG)
@@ -38,3 +36,11 @@ SAD - Sistema de apoio à decisao:
  → sensibilidade (mudança repetidas em uma única variável afeta outras)
  → busca de metas (repetidas mudanças em variáveis selecionadas até uma variável escolhida alcance um valor determinado)
  → otimização (encontrar um bom valor para as variáveis selecionadas dados em certas condições)
+
+Uso de TI nas empresas - pesquisa FGV:
+ → verifica o uso da tecnologia dentro das maiores empresas do brasil
+ → maior tempo de rodagem do sistema = maior o lucro da empresa
+ → aumento em 4% em investimento em TI
+ → 19% - planilha eletrônica, 6% banco de dados, 8% processador de dados, 12% sistema de transação, 24% navegador (54% google) e 27% correio eletrônico (60% microsoft) = porcentagem de uso nas empresa
+ → inteligência analítica: sap (24%), totvs (16%), oracle/microsoft (16%) e ibm (9%)
+ → aumento linear em investimento na área da tecnologia
