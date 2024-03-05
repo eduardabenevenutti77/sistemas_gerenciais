@@ -35,7 +35,7 @@ SAD - Sistema de apoio à decisao:
  → análise tipo what if (se condição, quantos de outra condição vai ser necessário)
  → sensibilidade (mudança repetidas em uma única variável afeta outras)
  → busca de metas (repetidas mudanças em variáveis selecionadas até que uma variável escolhida alcance um valor determinado)
- → otimização (encontrar um bom valor para as variáveis selecionadas dados em certas condições)
+ → otimização (encontrar um bom valor para as variáveis selecionadas em certas condições)
 
 Uso de TI nas empresas - pesquisa FGV:
  → verifica o uso da tecnologia dentro das maiores empresas do brasil
